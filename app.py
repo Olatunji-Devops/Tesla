@@ -1,0 +1,6 @@
+print('simon')
+print('john')
+print('femi')
+print('tunde')
+print('uche')
+print('bayo')
